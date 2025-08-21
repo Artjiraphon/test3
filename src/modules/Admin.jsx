@@ -1,0 +1,1 @@
+export default function Admin({event}){ return <div>📂 Admin module for {event.name}</div> }

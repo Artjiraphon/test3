@@ -1,0 +1,1 @@
+export default function Overview({event}){ return <div>📊 Overview Dashboard for {event.name}</div> }

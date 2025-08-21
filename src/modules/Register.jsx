@@ -1,0 +1,1 @@
+export default function Register({event,setEvent}){ return <div>📝 Register module for {event.name}</div> }

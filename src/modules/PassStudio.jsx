@@ -1,0 +1,1 @@
+export default function PassStudio({event}){ return <div>🎟️ Pass Studio for {event.name}</div> }

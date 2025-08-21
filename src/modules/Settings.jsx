@@ -1,0 +1,1 @@
+export default function Settings({event,setEvent}){ return <div>⚙️ Settings for {event.name}</div> }

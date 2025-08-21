@@ -1,0 +1,1 @@
+export default function Draw({event}){ return <div>🎲 Lucky Draw module for {event.name}</div> }
